@@ -1,3 +1,8 @@
+---
+title: "Books I've Read"
+date: "2017-05-13T12:00:00+06:00"
+draft: true
+---
 
 Every now and then, I see someone asking about good books. Further, I often can't call to mind some of the better books I've read in the moment. To that end, I'm going to list out some of the better books I've read. Keep in mind, I mostly read non-fiction so the number of fiction books to call upon is pretty slim.
 
@@ -13,14 +18,14 @@ In no particular order, these are books I would recommend.
 
   - *Morning and Evening* (Charles Spurgeon) is a fantastic daily devotional book. The original is great and the contemporized version done by Alistair Begg is rock solid.
 
-  - *The Valley of Vision* (Arthur Bennett) is a book of prayers edited together from various obscure writings on old thyme puritans. This book has never let me down when I can't focus. Further, when God's silence is too deafening or I don't have the strength to preach to my heart, this book is my lifeline.
+  - *The Valley of Vision* (Arthur Bennett) is a book of prayers edited together from various obscure writings of old thyme puritans. This book has never let me down when I can't focus. Further, when God's silence is too deafening or I don't have the strength to preach to my heart, this book is my lifeline.
 
-  - *The Wingfeather Saga* (Andrew Peterson) is a four book fantasy series. Self described as The Princess Bride meets the Lord of the Rings, the first half of book one is a bit juvenile, but it picks up and is one of my favorite fictions of all time. There is a fifth book of short stories from that world that is akin to Tolkien's Silmarilian that's also worth the read.
+  - *The Wingfeather Saga* (Andrew Peterson) is a four book fantasy series. Self described as The Princess Bride meets the Lord of the Rings, the first half of book one is a bit juvenile, but it picks up and is one of my favorite fictions of all time. There is a fifth book of short stories from the world in which the series is set.
 
-  - *The Lord of the Rings* (JRR Tolkien), for obvious reasons. Honorable mention: The Hobbit.
+  - *The Lord of the Rings* (JRR Tolkien), for obvious reasons. Honorable mention: *The Hobbit*.
 
-  - *The Holiness of God* (R.C. Sproul) and *A Christian Manifesto* (Francis A. Schaeffer) combined in college to awaken my faith and gave me the vocabulary to take it and make it mine.
+  - *The Holiness of God* (R.C. Sproul) and *A Christian Manifesto* (Francis A. Schaeffer) teamed up in college to awaken my faith and gave me the vocabulary to take it and make it mine.
 
-  - For a bit darker fiction *The Dresden Files* (Jim Butcher) is a fifteen (with a planned twenty-something) series following the life of a wizard private investigator in contemporary Chicago. I'm a sucker for supernaturally themed fiction.
+  - For a bit darker fiction *The Dresden Files* (Jim Butcher) is a fifteen (with a planned twenty-something) book series following the life of a wizard private investigator in contemporary Chicago. I'm a sucker for supernaturally themed fiction.
 
   - To finish up, as the father of two twin boys and (soon) a baby girl, I don't have much time to do in depth reading, so in times when I need something quick and thought provoking, I enjoy reading *The Westminster Confession*, *The Belgic Confession*, *The Westminster Catechism*, *The Heidelberg Catechism*, and recently *The New City Catechism*. They area easy to read a bite-sized snippet and jump around, but are very dense and can be good brain fodder.

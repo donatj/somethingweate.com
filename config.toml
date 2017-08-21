@@ -1,0 +1,78 @@
+baseURL = "http://somethingweate.com"
+title = "something we ate"
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+Paginate = 5
+
+preserveTaxonomyNames = true
+
+metaDataFormat = "toml"
+
+publishDir = "docs"
+
+[params]
+  description = "making things to eat"
+  dateFormat = "2006-01-02"
+  copyrightOwner = "henderjon"
+  copyrightStartYear = "2015"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+  hideSocialMenu = false
+  showReadTime = true
+
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+# [params.opengraph]
+  # [params.opengraph.facebook]
+    # admins = ""
+    # appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "henderjon"
+
+[author.social]
+  # codepen = "MunifTanjim"
+  # email = "contact@example.com"
+  # facebook = "MunifTanjim"
+  github = "henderjon"
+  instagram = "somethingweate"
+  # twitter = "MunifTanjim"
+
+[permalinks]
+  page = "/:slug/"
+
+# [[menu.main]]
+  # name = "home"
+  # weight = -70
+  # identifier = "nav"
+  # url = "/"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
+
+
+#https://minimo.netlify.com/
+#https://themes.gohugo.io/minimo/
+#https://github.com/MunifTanjim/minimo
