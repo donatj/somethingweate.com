@@ -1,1 +1,1 @@
-.site{align-items:flex-start}
+.comments-container,.comments-container #disqus_thread,.entry,.entry-header,.entry-nav,.entry-nav-links,.footer,.footer-container,.header-container,.main,.site,.site-header{align-items:flex-start}.comments-container #disqus_thread:before,.entry+.list-container:before,.entry-header:after,.entry-nav-links:before,.footer:before,.prev-entry~.next-entry:before,.site-header:after{border-bottom-color:rgba(19,99,21,0.9)}
