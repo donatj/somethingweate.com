@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>something we ate</title>
-    <link>http://somethingweate.com/</link>
-    <description>Recent content on something we ate</description>
+    <title>Posts on something we ate</title>
+    <link>http://somethingweate.com/posts/</link>
+    <description>Recent content in Posts on something we ate</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 21 Aug 2017 13:40:00 -0500</lastBuildDate>
     
-	<atom:link href="http://somethingweate.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://somethingweate.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

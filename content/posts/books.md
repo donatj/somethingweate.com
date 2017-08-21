@@ -1,7 +1,7 @@
 ---
 title: "Books I've Read"
 date: "2017-05-13T12:00:00+06:00"
-draft: true
+draft: false
 ---
 
 Every now and then, I see someone asking about good books. Further, I often can't call to mind some of the better books I've read in the moment. To that end, I'm going to list out some of the better books I've read. Keep in mind, I mostly read non-fiction so the number of fiction books to call upon is pretty slim.

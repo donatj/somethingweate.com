@@ -1,6 +1,6 @@
 +++
 date = "2017-08-21T13:40:00-05:00"
-draft = true
+draft = false
 title = "Recipe Manager"
 
 +++
