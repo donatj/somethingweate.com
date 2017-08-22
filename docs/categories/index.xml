@@ -9,5 +9,14 @@
 	<atom:link href="http://somethingweate.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Recommendations</title>
+      <link>http://somethingweate.com/categories/recommendations/</link>
+      <pubDate>Mon, 21 Aug 2017 13:40:00 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/categories/recommendations/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

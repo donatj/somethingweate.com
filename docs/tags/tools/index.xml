@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on something we ate</title>
+    <link>http://somethingweate.com/tags/tools/</link>
+    <description>Recent content in Tools on something we ate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Aug 2017 13:40:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://somethingweate.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recipe Manager</title>
+      <link>http://somethingweate.com/posts/recipe-manager/</link>
+      <pubDate>Mon, 21 Aug 2017 13:40:00 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/posts/recipe-manager/</guid>
+      <description>If you&amp;rsquo;re going to organize your recipes any one way, I&amp;rsquo;d like to recommend onetsp. They are a very affordable, on-line recipe manager that hits all the geek buttons (markdown, web clipper, extra notes, export, et. al.).
+I&amp;rsquo;ve been a happy customer for a few years and the only complaint I have is the inability to alter tags in bulk. You can share recipes via email. Overall, if you&amp;rsquo;re looking to digitize your recipes, this is the tool I&amp;rsquo;d recommend.</description>
+    </item>
+    
+  </channel>
+</rss>

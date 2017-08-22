@@ -5,9 +5,37 @@
     <link>http://somethingweate.com/tags/</link>
     <description>Recent content in Tags on something we ate</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 21 Aug 2017 13:40:00 -0500</lastBuildDate>
     
 	<atom:link href="http://somethingweate.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Not cooking</title>
+      <link>http://somethingweate.com/tags/not-cooking/</link>
+      <pubDate>Mon, 21 Aug 2017 13:40:00 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/not-cooking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendations</title>
+      <link>http://somethingweate.com/tags/recommendations/</link>
+      <pubDate>Mon, 21 Aug 2017 13:40:00 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/recommendations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>http://somethingweate.com/tags/tools/</link>
+      <pubDate>Mon, 21 Aug 2017 13:40:00 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/tools/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

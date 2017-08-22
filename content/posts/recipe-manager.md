@@ -2,6 +2,8 @@
 date = "2017-08-21T13:40:00-05:00"
 draft = false
 title = "Recipe Manager"
+categories = ["recommendations"]
+tags = ["recommendations", "not cooking", "tools"]
 
 +++
 
