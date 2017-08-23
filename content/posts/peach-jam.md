@@ -16,5 +16,5 @@ the third heat got a shot of bourbon. I need to sit down and really taste it, bu
 mouth-feel. (Yes, I just used the word "mouth-feel" ... I'm such a sellout.) I'll update this post with my comparison. For now, overall it was a really successful batch and
 we'll have plenty of peach goodness to remind us of the autumn when we're drinking ourselves to sleep at 5pm in the darkness of February.
 
-A few amateur pics are up on [Instagram](https://instgram.com/somethingweate)
+A few amateur pics are up on [Instagram](https://instagram.com/somethingweate)
 
