@@ -17,7 +17,7 @@ publishDir = "docs"
 [params]
   description = "making things to eat"
   dateFormat = "2006-01-02"
-  copyrightOwner = "henderjon"
+  copyrightOwner = "somethingweate"
   copyrightStartYear = "2015"
   favicon = "favicon.ico"
   hideEntryNavigation = false
@@ -36,8 +36,8 @@ publishDir = "docs"
     # appid = ""
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+  # category = "categories"
+  # tag = "tags"
 
 [social]
   facebook = ""
@@ -55,6 +55,7 @@ publishDir = "docs"
 
 [permalinks]
   page = "/:slug/"
+  post = "/:title/"
 
 # [[menu.main]]
   # name = "home"
