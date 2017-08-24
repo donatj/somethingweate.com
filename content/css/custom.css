@@ -30,3 +30,5 @@ header nav ul li {
 .latest-posts { border-top: 1px solid grey; text-transform: capitalize; }
 
 .all-tags .tag-name { text-transform: capitalize; }
+
+.social { border-top: 1px solid grey; }

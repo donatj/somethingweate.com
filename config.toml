@@ -1,72 +1,40 @@
 baseURL = "http://somethingweate.com"
-title = "something we ate"
-copyright = ""
-
 theme = "neckbeard"
-
-disqusShortname = ""
 googleAnalytics = ""
 Paginate = 5
 
 preserveTaxonomyNames = true
-
 metaDataFormat = "toml"
-
 publishDir = "docs"
 
 [params]
-  description = "making something to eat"
-  dateFormat = "2006-01-02"
-  copyrightOwner = "somethingweate.com"
-  copyrightStartYear = "2015"
-  favicon = "favicon.ico"
-  hideEntryNavigation = false
-  customCSS = ["css/custom.css"]
-  customJS = ["js/custom.js"]
-  hideSocialMenu = false
-  showReadTime = true
+title = "Something We Ate"
+description = "making something to eat"
+author = "henderjon"
+copyrightOwner = "somethingweate.com"
+copyrightStartYear = "2015"
+favicon = "imgs/favicon.ico"
 
-[params.seo]
-  # Title Separator: - – — · • * ⋆ | ~ « » < >
-  titleSeparator = "•"
+[params.additional]
+css = ["css/custom.css"]
+js = []
 
 [taxonomies]
-  tag = "tags"
+tag = "tags"
 
 [social]
-  facebook = ""
-
-[author]
-  name = "henderjon"
-
-[author.social]
-  # email = "contact@example.com"
-  github = "henderjon"
-  instagram = "somethingweate"
+# email = "contact@example.com"
+github = "https://github.com/henderjon"
+instagram = "https://instagram.com/somethingweate"
 
 [permalinks]
-  page = "/:slug/"
-  posts = "posts/:title/"
+page = "/:slug/"
+posts = "posts/:title/"
 
 # [[menu.main]]
-#   name = "home"
-#   weight = -70
-#   identifier = "nav"
-#   url = "/"
-
-# Language Configuration
-defaultContentLanguage = "en"
-
-[languages]
-  # edit this block for your own language
-  [languages.en]
-    lang = "en"
-    languageName = "English"
-    weight = 1
+# name = "home"
+# weight = -70
+# identifier = "nav"
+# url = "/"
 
 
-#https://minimo.netlify.com/
-#https://themes.gohugo.io/minimo/
-#https://github.com/MunifTanjim/minimo
-
-#https://themes.gohugo.io/blank/
