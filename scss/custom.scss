@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+
+/** base mixins / parent-classes */
+
+.disguised-link {
+	text-decoration: none;
+	&:visited {
+		color: inherit;
+	}
+}
+
+/** actual site styles */
+
+body {
+	font-family: 'Source Serif Pro', serif;
+	color: black;
+}
+
+.site-title {
+	font-size: 1.17em;
+	// border-bottom: 1px solid black;
+	a {
+		text-transform: uppercase;
+		@extend .disguised-link
+	}
+}
+
+/*header nav ul {
+	display: flex;
+	flex-direction: row;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+header nav ul li {
+	margin: 0;
+	padding: 0;
+}*/
+
+.post {
+	& .title {
+		text-transform: capitalize;
+	}
+	& .title a {
+		@extend .disguised-link
+	}
+	& time {
+		font-size: .8em;
+	}
+}
+
+.current-tags {
+	& ul {
+		display: flex;
+		flex-direction: row;
+		list-style: none;
+		margin: 0px 0px initial 0px;
+		padding: 0px;
+		& li {
+			margin: 0px;
+			padding: 0px 6px 0px 0px;
+		}
+	}
+}
+
+.latest-posts {
+	border-top: 1px solid grey;
+	text-transform: capitalize;
+}
+
+.all-tags .tag-name {
+	text-transform: capitalize;
+}

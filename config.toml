@@ -2,7 +2,7 @@ baseURL = "http://somethingweate.com"
 title = "something we ate"
 copyright = ""
 
-theme = "minimo"
+theme = "neckbeard"
 
 disqusShortname = ""
 googleAnalytics = ""
@@ -15,9 +15,9 @@ metaDataFormat = "toml"
 publishDir = "docs"
 
 [params]
-  description = "making things to eat"
+  description = "making something to eat"
   dateFormat = "2006-01-02"
-  copyrightOwner = "somethingweate"
+  copyrightOwner = "somethingweate.com"
   copyrightStartYear = "2015"
   favicon = "favicon.ico"
   hideEntryNavigation = false
@@ -30,14 +30,8 @@ publishDir = "docs"
   # Title Separator: - – — · • * ⋆ | ~ « » < >
   titleSeparator = "•"
 
-# [params.opengraph]
-  # [params.opengraph.facebook]
-    # admins = ""
-    # appid = ""
-
 [taxonomies]
-  # category = "categories"
-  # tag = "tags"
+  tag = "tags"
 
 [social]
   facebook = ""
@@ -46,22 +40,19 @@ publishDir = "docs"
   name = "henderjon"
 
 [author.social]
-  # codepen = "MunifTanjim"
   # email = "contact@example.com"
-  # facebook = "MunifTanjim"
   github = "henderjon"
   instagram = "somethingweate"
-  # twitter = "MunifTanjim"
 
 [permalinks]
   page = "/:slug/"
-  post = "/:title/"
+  posts = "posts/:title/"
 
 # [[menu.main]]
-  # name = "home"
-  # weight = -70
-  # identifier = "nav"
-  # url = "/"
+#   name = "home"
+#   weight = -70
+#   identifier = "nav"
+#   url = "/"
 
 # Language Configuration
 defaultContentLanguage = "en"

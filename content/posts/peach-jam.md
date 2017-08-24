@@ -2,6 +2,7 @@
 date = "2017-08-23T07:58:10-05:00"
 title = "Peach Jam"
 draft = false
+tags = ["DIY", "canning", "preserving"]
 
 +++
 

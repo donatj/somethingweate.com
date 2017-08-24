@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canning on something we ate</title>
+    <link>http://somethingweate.com/tags/canning/</link>
+    <description>Recent content in Canning on something we ate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Aug 2017 07:58:10 -0500</lastBuildDate>
+    
+	<atom:link href="http://somethingweate.com/tags/canning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Peach Jam</title>
+      <link>http://somethingweate.com/posts/peach-jam/</link>
+      <pubDate>Wed, 23 Aug 2017 07:58:10 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/posts/peach-jam/</guid>
+      <description>So I&amp;rsquo;ve had a lot of fun discovering Jam (and by extension, preserving). It was largely inspired by a video series on tastemade. Kevin West taught the class on jam based entirely on his book Saving The Season. It&amp;rsquo;s a fantastic video series and the book is great. It&amp;rsquo;s particularly nice that he goes into explaining jam. I like to understand what I&amp;rsquo;m doing and really hate recipe books that just give you recipes without teaching you to understand what you&amp;rsquo;re doing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>White whales on something we ate</title>
+    <link>http://somethingweate.com/tags/white-whales/</link>
+    <description>Recent content in White whales on something we ate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 24 Aug 2017 07:48:16 -0500</lastBuildDate>
+    
+	<atom:link href="http://somethingweate.com/tags/white-whales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taco Seasoning</title>
+      <link>http://somethingweate.com/posts/taco-seasoning/</link>
+      <pubDate>Thu, 24 Aug 2017 07:48:16 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/posts/taco-seasoning/</guid>
+      <description>So one of my white whales (I have many) is taco seasoning. Growing up in northern MN, &amp;ldquo;tacos&amp;rdquo; always meant ground beef + packet of taco seasoning. Sure you can mix in veggies, hard/soft shells, lettuce for taco salad, blah blah blah. That&amp;rsquo;s what tacos always were to me. Then I found Nacho&amp;rsquo;s.
+Before I go any further, let me say that their logo does not represent the food, atmosphere, or people at Nacho&amp;rsquo;s.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,8 @@
 +++
 date = "2017-08-24T07:48:16-05:00"
 draft = false
-title = "taco seasoning"
+title = "Taco Seasoning"
+tags = ["white whales", "supper", "DIY", "cooking"]
 
 +++
 

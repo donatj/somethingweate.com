@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on something we ate</title>
-    <link>http://somethingweate.com/posts/</link>
-    <description>Recent content in Posts on something we ate</description>
+    <title>DIY on something we ate</title>
+    <link>http://somethingweate.com/tags/diy/</link>
+    <description>Recent content in DIY on something we ate</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 24 Aug 2017 07:48:16 -0500</lastBuildDate>
     
-	<atom:link href="http://somethingweate.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://somethingweate.com/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,26 +27,6 @@ Before I go any further, let me say that their logo does not represent the food,
       
       <guid>http://somethingweate.com/posts/peach-jam/</guid>
       <description>So I&amp;rsquo;ve had a lot of fun discovering Jam (and by extension, preserving). It was largely inspired by a video series on tastemade. Kevin West taught the class on jam based entirely on his book Saving The Season. It&amp;rsquo;s a fantastic video series and the book is great. It&amp;rsquo;s particularly nice that he goes into explaining jam. I like to understand what I&amp;rsquo;m doing and really hate recipe books that just give you recipes without teaching you to understand what you&amp;rsquo;re doing.</description>
-    </item>
-    
-    <item>
-      <title>Recipe Manager</title>
-      <link>http://somethingweate.com/posts/recipe-manager/</link>
-      <pubDate>Mon, 21 Aug 2017 13:40:00 -0500</pubDate>
-      
-      <guid>http://somethingweate.com/posts/recipe-manager/</guid>
-      <description>If you&amp;rsquo;re going to organize your recipes any one way, I&amp;rsquo;d like to recommend onetsp. They are a very affordable, on-line recipe manager that hits all the geek buttons (markdown, web clipper, extra notes, export, et. al.).
-I&amp;rsquo;ve been a happy customer for a few years and the only complaint I have is the inability to alter tags in bulk. You can share recipes via email. Overall, if you&amp;rsquo;re looking to digitize your recipes, this is the tool I&amp;rsquo;d recommend.</description>
-    </item>
-    
-    <item>
-      <title>Books I&#39;ve Read</title>
-      <link>http://somethingweate.com/posts/books-ive-read/</link>
-      <pubDate>Sat, 13 May 2017 12:00:00 +0600</pubDate>
-      
-      <guid>http://somethingweate.com/posts/books-ive-read/</guid>
-      <description>Every now and then, I see someone asking about good books. Further, I often can&amp;rsquo;t call to mind some of the better books I&amp;rsquo;ve read in the moment. To that end, I&amp;rsquo;m going to list out some of the better books I&amp;rsquo;ve read. Keep in mind, I mostly read non-fiction so the number of fiction books to call upon is pretty slim.
-In no particular order, these are some books I would recommend.</description>
     </item>
     
   </channel>

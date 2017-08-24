@@ -3,7 +3,7 @@ date = "2017-08-21T13:40:00-05:00"
 draft = false
 title = "Recipe Manager"
 categories = ["posts", "recommendations"]
-tags = ["posts", "recommendations", "not cooking", "tools"]
+tags = ["recommendations", "not cooking", "tools"]
 type = "posts"
 
 +++
