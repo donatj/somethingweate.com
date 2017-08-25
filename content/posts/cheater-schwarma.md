@@ -1,8 +1,8 @@
 +++
 title = "cheater shawarma"
 date = "2017-08-24T19:24:55-05:00"
-draft = true
-tags = []
+draft = false
+tags = ["knowing is half the battle", "cooking", "DIY"]
 type = "post"
 
 +++
@@ -19,7 +19,15 @@ usually turns out poorly. Two things I did differently. First, I used the [aquaf
 Second, I didn't have any lemons so I used a splash of white wine vinegar. It worked. Next time I'll go back
 to using lemons, but the fact that it worked was both surprising and encouraging.
 
-Lastly, I made cesar dressing again. This time I tried using fish sauce instead of anchovy fillets. The irritating bit
+Lastly, I made caesar dressing again. This time I tried using fish sauce instead of anchovy fillets. The irritating bit
 as with the hummus was my lack of lemon. So, I had to rely on white wine vinegar. I dialed up the worcestershire sauce because it's so
 good. I also went for the commodity cheese. The green plastic tube, at first, didn't look like it would work. I'll
 drop it on a salad tomorrow and let you know. No lemon, cheaper cheese, and fish sauce. I'll keep you posted.
+
+[update]
+
+### re: the caesar dressing.
+
+It ended up decent. The fish sauce came through as fish sauce. It's wasn't bad, but certainly tasted not-quite-caesar.
+I think in a pinch, it'd work, but if you can actually get anchovies, do so. The wildcard is that I'm not sure if
+having lemon juice would've helped. In either case, I'll stick to the anchovies.
