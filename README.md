@@ -1,5 +1,5 @@
 # somethingweate.com
 
-I'll say some stuff and I'll share some stuff.
+Making something to eat.
 
 [somethingweate.com](http://somethingweate.com)
