@@ -1,8 +1,9 @@
 +++
-date = "2017-08-23T07:58:10-05:00"
 title = "Peach Jam"
+date = "2017-08-23T07:58:10-05:00"
 draft = false
 tags = ["DIY", "canning", "preserving"]
+type = "post"
 
 +++
 

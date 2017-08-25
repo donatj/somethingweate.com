@@ -1,8 +1,9 @@
 +++
-title =  "Books I've Read"
-date =  "2017-05-13T12:00:00+06:00"
+title = "Books I've Read"
+date = "2017-05-13T12:00:00+06:00"
 draft = false
 tags = ["recommendations", "not cooking"]
+type = "post"
 
 +++
 

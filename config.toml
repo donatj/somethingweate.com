@@ -17,7 +17,7 @@ favicon = "imgs/favicon.ico"
 
 [params.additional]
 css = ["css/custom.css"]
-js = []
+js = ["js/custom.js"]
 
 [taxonomies]
 tag = "tags"
