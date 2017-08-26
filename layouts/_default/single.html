@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+	<main>
+		<article class="post">
+			<h1 class="title"><a href="{{ .Site.BaseURL }}/#{{ .Date.Format "2006-01" }}">{{ .Title }}</a></h1>
+			<time class="published">[{{ .Date.Format "2006 Jan 02" }}]</time>
+			<div class="content">
+				{{ .Content }}
+			</div>
+		</article>
+	</main>
+{{ partial "current_tags.html" . }}
+{{ partial "latest_posts.html" . }}
+{{ partial "social.html" . }}
+{{ partial "footer.html" . }}

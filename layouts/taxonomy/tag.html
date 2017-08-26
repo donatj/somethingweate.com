@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+	<section>
+		<h2>{{ .Data.Singular | title }}: {{ .Data.Term }}</h2>
+		<div>
+		{{ range .Data.Pages.GroupByDate "2006-01" }}
+			<h3 id="{{ .Key }}">{{ .Key }}</h3>
+			<ul>
+				{{ range .Pages }}
+				<li><a href="{{ .URL }}">{{ .Title }}</a></li>
+				{{ end }}
+			</ul>
+		{{ end }}
+		</div>
+	</section>
+{{ partial "footer.html" . }}

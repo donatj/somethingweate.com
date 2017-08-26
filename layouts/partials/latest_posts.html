@@ -1,0 +1,11 @@
+	<aside class="latest-posts">
+		<div>
+			<h4>Latest Posts</h4>
+			<ul>
+				{{ range first 5 (where .Site.Pages "Type" "post") }}
+				<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+				{{ end }}
+				<li><a href="/tags/">Tags</a></li>
+			</ul>
+		</div>
+	</aside>

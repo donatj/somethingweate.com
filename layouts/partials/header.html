@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>{{ .Site.Params.Title }}: {{ .Title }}</title>
+	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+	<link rel='icon' href="{{ print .Site.Params.favicon | absURL }}">
+	<link rel="stylesheet" href="{{ print "/css/style.css" | absURL }}">
+	<script type="application/javascript" src='{{ print "/js/main.js" | absURL }}'></script>
+	{{ partial "custom_includes.html" . }}
+	{{ .Hugo.Generator }}
+</head>
+<body>
+	<header>
+		<h2 class="site-title"><a href="/">{{ .Site.Title }}</a></h2>
+		<nav class="site-nav">
+			<ul>
+				{{ range .Site.Menus.main }}
+				<li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+				{{ end }}
+			</ul>
+		</nav>
+	</header>

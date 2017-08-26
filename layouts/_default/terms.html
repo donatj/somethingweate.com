@@ -1,0 +1,19 @@
+
+{{ partial "header.html" . }}
+	<aside class="all-tags">
+		<div>
+			{{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+			<h4 class="tag-name">{{ $taxonomyname }}</h4>
+			<ul>
+				{{ range $key, $value := $taxonomy }}
+				<li><a href="{{ "/tags/" | relLangURL }}{{ $key | urlize }}"> {{ $key }} </a> </li>
+				{{ end }}
+			</ul>
+			{{ end }}
+		</div>
+	</aside>
+{{ partial "footer.html" . }}
+
+
+
+

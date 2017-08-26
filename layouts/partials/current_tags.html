@@ -1,0 +1,10 @@
+	<aside class="current-tags">
+		<div>
+			<h4>Tags</h4>
+			<ul>
+				{{ range .Params.tags }}
+				<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+				{{ end }}
+			</ul>
+		</div>
+	</aside>
