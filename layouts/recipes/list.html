@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+	<section>
+		<div>
+		{{ range (where .Data.Pages "Type" "recipe").GroupByDate "2006-01" }}
+			<h3 id="{{ .Key }}">{{ .Key }}</h3>
+			<ul>
+				{{ range .Pages }}
+				<li><a href="{{ .URL }}">{{ .Title }}</a></li>
+				{{ end }}
+			</ul>
+		{{ end }}
+		</div>
+	</section>
+{{ partial "social.html" . }}
+{{ partial "footer.html" . }}

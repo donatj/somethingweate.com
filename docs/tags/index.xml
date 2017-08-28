@@ -5,10 +5,19 @@
     <link>http://somethingweate.com/tags/</link>
     <description>Recent content in Tags on Something We Ate</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Aug 2017 07:58:10 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 27 Aug 2017 21:10:26 -0500</lastBuildDate>
     
 	<atom:link href="http://somethingweate.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Beef</title>
+      <link>http://somethingweate.com/tags/beef/</link>
+      <pubDate>Sun, 27 Aug 2017 21:10:26 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/beef/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Canning</title>
@@ -16,6 +25,15 @@
       <pubDate>Wed, 23 Aug 2017 07:58:10 -0500</pubDate>
       
       <guid>http://somethingweate.com/tags/canning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chicken</title>
+      <link>http://somethingweate.com/tags/chicken/</link>
+      <pubDate>Sun, 27 Aug 2017 20:55:25 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/chicken/</guid>
       <description></description>
     </item>
     
@@ -38,11 +56,38 @@
     </item>
     
     <item>
+      <title>Greek</title>
+      <link>http://somethingweate.com/tags/greek/</link>
+      <pubDate>Sun, 27 Aug 2017 21:10:26 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/greek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grill</title>
+      <link>http://somethingweate.com/tags/grill/</link>
+      <pubDate>Sun, 27 Aug 2017 20:55:25 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/grill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Knowing is half the battle</title>
       <link>http://somethingweate.com/tags/knowing-is-half-the-battle/</link>
       <pubDate>Thu, 24 Aug 2017 19:24:55 -0500</pubDate>
       
       <guid>http://somethingweate.com/tags/knowing-is-half-the-battle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lamb</title>
+      <link>http://somethingweate.com/tags/lamb/</link>
+      <pubDate>Sun, 27 Aug 2017 21:10:26 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/lamb/</guid>
       <description></description>
     </item>
     
@@ -56,11 +101,29 @@
     </item>
     
     <item>
+      <title>Pork</title>
+      <link>http://somethingweate.com/tags/pork/</link>
+      <pubDate>Sun, 27 Aug 2017 20:55:25 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/pork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Preserving</title>
       <link>http://somethingweate.com/tags/preserving/</link>
       <pubDate>Wed, 23 Aug 2017 07:58:10 -0500</pubDate>
       
       <guid>http://somethingweate.com/tags/preserving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipe</title>
+      <link>http://somethingweate.com/tags/recipe/</link>
+      <pubDate>Sun, 27 Aug 2017 21:10:26 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/recipe/</guid>
       <description></description>
     </item>
     
@@ -79,6 +142,15 @@
       <pubDate>Fri, 25 Aug 2017 08:30:00 -0500</pubDate>
       
       <guid>http://somethingweate.com/tags/static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Street food</title>
+      <link>http://somethingweate.com/tags/street-food/</link>
+      <pubDate>Sun, 27 Aug 2017 20:55:25 -0500</pubDate>
+      
+      <guid>http://somethingweate.com/tags/street-food/</guid>
       <description></description>
     </item>
     
